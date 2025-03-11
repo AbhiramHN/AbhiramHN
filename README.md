@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABHIRAM H N</h1>
-<h3 align="center">Passionate Student Developer | Building Skills, One Line of Code at a Time</h3>
+<h3 align="center">Passionate Student Developer | Building Skills| One Line of Code at a Time</h3>
 
 - 🌱 I’m currently learning **DSA and React**
 
